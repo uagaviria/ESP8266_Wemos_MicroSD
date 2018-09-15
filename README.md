@@ -4,7 +4,7 @@
 Debemos hacer el cambio en la libreria de los pines para que pueda funcionar el modulo y reconozca la micro SD.
 Pongo una imagen de como debe quedar el cambio.
 
-![SPI](https://raw.githubusercontent.com/uagaviria/ESP8266_Wemos_MicroSD/master/imagen/spi.png)
+![SPI](https://github.com/uagaviria/ESP8266_Wemos_MicroSD/blob/master/imagen/spi.png)
 
 ## Mas informacion en: http://www.nextionec.com/descargas.html
 
