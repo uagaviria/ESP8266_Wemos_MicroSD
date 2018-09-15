@@ -1,11 +1,9 @@
-# PANTALLAS NEXTION
+# Wemos y ESP8266 con MicroSD
 
-## Envio de entero desde boton:
-Las pantallas de Nextion tienen varios tamaños desde 2.4 hasta 7 pulgadas y tienen en su interfaz una pantalla táctil a color.
-Cuenta con un software especializado para diseñar de manera más fácil una interfaz  para el usuario.
-Las pantallas Nextion son una solución diseñada para complementar las necesidades de sus aplicaciones.
-El editor de nextion provee una plataforma de desarrollo de software integrado para toda la familia de nextion.
-podemos ir a la pagina de descargas donde encontrarar ejemplos y software necesario para trabajar con dichos dispositivos. 
+## Cambio en la libreria SPI.cpp:
+Debemos hacer el cambio en la libreria de los pines para que pueda funcionar el modulo y reconozca la micro SD.
+Pongo una imagen de como debe quedar el cambio.
+ 
 ## Mas informacion en: http://www.nextionec.com/descargas.html
 
 Quiero compartir un ejemplo cuyos botones en pantalla envian un dato variable. cuenta con dos paginas (page 0 y page 1). Anexo el ejemplo de arduino y el HMI de nextion para que lo abran y lo analicen. la pantalla que estoy usando es de 2.4 pulgadas.
